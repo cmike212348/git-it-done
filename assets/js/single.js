@@ -94,5 +94,4 @@ fetch(apiUrl).then(function(response) {
         });
       }
 }
-var getRepoName = function() {
-};
+getRepoName();
